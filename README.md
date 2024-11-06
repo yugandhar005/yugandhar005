@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yugandhar Chaudhari</h1>
 <!-- <h3 align="center">A passionate DevOps Engineer</h3> -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=IT+Engineer;Full+Stack+Web+Developer;Java+Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=DevOps+Engineer;Full+Stack+Web+Developer;Java+Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yugandhar005&label=Profile%20views&color=0e75b6&style=flat" align="right" alt="yugandhar005" /> </p>
