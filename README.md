@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **DevOps Tools**
 
-- 📝 I regularly write articles on [Dev](https://dev.to/yugandhar005)
+# - 📝 I regularly write articles on [Dev](https://dev.to/yugandhar005)
 
 - 📫 How to reach me **yugandharchaudhari5@gmail.com**
 
