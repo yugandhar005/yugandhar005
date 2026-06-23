@@ -9,6 +9,6 @@ Python Developer at Paramatrix Technologies
    OAuth2/OIDC, AWS
 
 💼 Skills: Python, Django, Microsoft Graph API,
-   Azure AD, LDAP, Authentication Systems
+   Azure AD, LDAP, Authentication Systems, PostgreSQL
 
 📫 Reach me: yugandharchaudhari5@gmail.com
