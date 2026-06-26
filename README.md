@@ -1,6 +1,6 @@
 # Hi 👋 I'm Yugandhar Chaudhari
 
-Python Developer at Paramatrix Technologies
+Python Developer at Paramatrix Technologies Limited
 
 🔭 Currently working on: IAPM — Microsoft 365 
    integrations, Azure AD, LDAP sync
